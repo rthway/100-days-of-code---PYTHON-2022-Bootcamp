@@ -1,0 +1,15 @@
+# Positionnal Agruments
+def my_function(a,b,c):
+  do this with a
+  then do this with b
+  finally do this with c
+my_function(1,2,3)
+result are : a=1 , b=2, c=3
+
+# Keyword agruments 
+def my_function(a,b,c):
+  do this with a
+  then do this with b
+  finally do this with c
+my_function(a=3 , b=1, c=2)
+result are : a=3 , b=1, c=2
