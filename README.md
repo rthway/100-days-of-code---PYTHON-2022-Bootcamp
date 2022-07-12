@@ -5,10 +5,10 @@
 <li> [x] 04 Day 4 - Beginner - Randomisation and Python Lists<br>
 <li> [x] 05 Day 5 - Beginner - Python Loops<br>
 <li> [x] 06 Day 6 - Beginner - Python Functions & Karel<br>
-<li> [x]07 Day 7 - Beginner - Hangman<br>
-<li> [x]08 Day 8 - Beginner - Function Parameters & Caesar Cipher<br>
-<li> [x]09 Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction<br>
-<li> [x]10 Day 10 - Beginner - Functions with Outputs<br>
+<li> [x] 07 Day 7 - Beginner - Hangman<br>
+<li> [x] 08 Day 8 - Beginner - Function Parameters & Caesar Cipher<br>
+<li> [x] 09 Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction<br>
+<li> [x] 10 Day 10 - Beginner - Functions with Outputs<br>
 11 Day 11 - Beginner - The Blackjack Capstone Project<br>
 12 Day 12 - Beginner - Scope & Number Guessing Game<br>
 13 Day 13 - Beginner - Debugging_ How to Find and Fix Errors in your Code<br>
