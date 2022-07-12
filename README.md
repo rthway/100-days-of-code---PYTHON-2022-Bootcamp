@@ -5,16 +5,16 @@
 <li> [x] 04 Day 4 - Beginner - Randomisation and Python Lists<br>
 <li> [x] 05 Day 5 - Beginner - Python Loops<br>
 <li> [x] 06 Day 6 - Beginner - Python Functions & Karel<br>
-07 Day 7 - Beginner - Hangman<br>
-08 Day 8 - Beginner - Function Parameters & Caesar Cipher<br>
-09 Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction<br>
-10 Day 10 - Beginner - Functions with Outputs<br>
+<li> [x]07 Day 7 - Beginner - Hangman<br>
+<li> [x]08 Day 8 - Beginner - Function Parameters & Caesar Cipher<br>
+<li> [x]09 Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction<br>
+<li> [x]10 Day 10 - Beginner - Functions with Outputs<br>
 11 Day 11 - Beginner - The Blackjack Capstone Project<br>
-12 Day 12  - Beginner - Scope & Number Guessing Game<br>
+12 Day 12 - Beginner - Scope & Number Guessing Game<br>
 13 Day 13 - Beginner - Debugging_ How to Find and Fix Errors in your Code<br>
 14 Day 14 - Beginner - Higher Lower Game Project<br>
 15 Day 15 - Intermediate - Local Development Environment Setup & the Coffee Machine<br>
-16 Day 16  - Intermediate - Object Oriented Programming (OOP)<br>
+16 Day 16 - Intermediate - Object Oriented Programming (OOP)<br>
 17 Day 17 - Intermediate - The Quiz Project & the Benefits of OOP<br>
 18 Day 18 - Intermediate - Turtle & the Graphical User Interface (GUI)<br>
 19 Day 19 - Intermediate - Instances, State and Higher Order Functions<br>
