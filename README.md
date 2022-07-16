@@ -12,7 +12,7 @@
 <li> [x] 11 Day 11 - Beginner - The Blackjack Capstone Project<br>
 <li> [x] 12 Day 12 - Beginner - Scope & Number Guessing Game<br>
 <li> [x] 13 Day 13 - Beginner - Debugging_ How to Find and Fix Errors in your Code<br>
-14 Day 14 - Beginner - Higher Lower Game Project<br>
+<li> [x] 14 Day 14 - Beginner - Higher Lower Game Project<br>
 15 Day 15 - Intermediate - Local Development Environment Setup & the Coffee Machine<br>
 16 Day 16 - Intermediate - Object Oriented Programming (OOP)<br>
 17 Day 17 - Intermediate - The Quiz Project & the Benefits of OOP<br>
