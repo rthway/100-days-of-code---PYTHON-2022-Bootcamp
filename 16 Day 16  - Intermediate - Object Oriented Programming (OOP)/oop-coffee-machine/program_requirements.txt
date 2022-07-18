@@ -1,0 +1,5 @@
+1. Print reports.
+2. check resources sufficient?
+3. process coin.
+4. check transactions successful?
+5. make coffee.
