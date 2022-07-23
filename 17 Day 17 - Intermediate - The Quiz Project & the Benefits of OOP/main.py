@@ -60,7 +60,7 @@ class Car:
 my_car.enter_race_mode() # to call function
 
 '''
-## user following code ##
+## user follow code ##
 class User:
     def __init__(self,user_id,username):
         self.id = user_id
